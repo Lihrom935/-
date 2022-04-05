@@ -1,2 +1,2 @@
-# Analis_game_platforms
+# Analis_games_platforms
 Исследование продаж по игровым платформам
